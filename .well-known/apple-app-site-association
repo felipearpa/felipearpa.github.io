@@ -1,0 +1,11 @@
+{
+   "applinks": {
+      "apps": [],
+      "details": [
+         {
+            "appID": "H7N4H27ULJ.com.felipearpa.tyche",
+            "paths": ["/tyche/signin/*"]
+         }
+      ]
+   }
+}
